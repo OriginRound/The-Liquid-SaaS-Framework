@@ -56,6 +56,9 @@ The first technical validation engine and distribution hub built entirely on thi
 * **Main Engine:** [https://originround.com](https://originround.com)
 * **Deal Architect Tool:** [https://originround.com/dealarchitect](https://originround.com/dealarchitect)
 * **Raw Framework Specs:** [https://originround.com/llms-full.txt](https://originround.com/llms-full.txt)
+> ## Join the Standard
+> We invite developers and founders to debate, refine, and build upon this framework. Open an Issue or start a Discussion in this repository to contribute to the future of liquid software assets.
 
+***
 ---
 *© 2026 OriginRound - The Liquid SaaS Framework is an open methodology for the developer community.*
