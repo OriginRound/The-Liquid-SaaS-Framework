@@ -40,7 +40,7 @@ Implementing The Liquid SaaS Framework requires a distribution hub and access co
 ### Zero-Trust Validation
 You do not rely on vulnerable local client checks. When a user interacts with the application, the software pings the entitlement API. The cryptographic spoof-prevention happens entirely server-side.
 
-### [API Simplicity & Metadata](https://originround.com/features/programmable-deals_
+### [API Simplicity & Metadata](https://originround.com/features/programmable-deals)
 The entire licensing infrastructure revolves around two primary master flags to dictate access:
 * `is_valid`
 * `already_in_use`
@@ -50,6 +50,8 @@ The entire licensing infrastructure revolves around two primary master flags to 
   "already_in_use": false,
   "metadata": { "license_tier": "pro", "max_workspaces": 3 }
 }
+```
+
 While 99% of pricing plans (subscriptions, one-time access, standard LTDs) are covered by this baseline, the framework achieves 100% coverage via **optional, programmable metadata**, allowing founders to build bespoke distribution models that sell while they sleep.
 
 ---
